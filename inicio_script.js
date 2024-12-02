@@ -1,5 +1,5 @@
 const products = [
-    { name: 'Pack Gold', price: '€8,50', image: 'fotos/golden.jpg', description: 'Masculino, oriental y especiado, con oud, ámbar y cuero. Sofisticado y duradero.', type: 'perfume', quantity: 1 },
+    { name: 'Pack Gold', price: '€9', image: 'fotos/golden.jpg', description: 'Masculino, oriental y especiado, con oud, ámbar y cuero. Sofisticado y duradero.', type: 'perfume', quantity: 1 },
     { name: 'Pack Lattafa Khamra', price: '€36', image: 'fotos/KHAMRAH.jpg', description: 'Lattafa Khamra es un perfume masculino oriental y especiado, con una apertura cálida de notas de frutas dulces y especias. Su corazón combina florales suaves con un toque amaderado, mientras que el fondo es profundo y sensual, con notas de ámbar, almizcle y madera. Es una fragancia intensa, elegante y duradera, ideal para ocasiones especiales.', type: 'perfume', quantity: 1 },
     { name: 'Pack Yani', price: '€9', image: 'fotos/pack-yani-3.jpg', description: 'Notas de heliotropo que evocan la suavidad del atardecer, mandarina que añade un toque cítrico chispeante, y pétalos de orquídea que sugieren una belleza rara y preciosa.', type: 'perfume', quantity: 1 },
     { name: 'Princesas de Arabia', price: '€30', image: 'fotos/pack-princesa-arabia.jpg', description: 'El perfume Princesas de Arabia es una fragancia oriental y dulce, con una mezcla de notas florales, afrutadas y especiadas. Sus aromas cálidos y exóticos evocan lujo y misterio, destacando especialmente las notas de vainilla, ámbar y flores blancas.', type: 'perfume', quantity: 1 },
@@ -8,6 +8,7 @@ const products = [
     { name: 'Pack Yani 2', price: '€10,50', image: 'fotos/pack-yani-2.jpg', description: 'Notas de heliotropo que evocan la suavidad del atardecer, mandarina que añade un toque cítrico chispeante, y pétalos de orquídea que sugieren una belleza rara y preciosa.', type: 'perfume', quantity: 1 },
     { name: 'Yara rosa', price: '€20', image: 'fotos/yararosa.jpg', description: 'Yara de Lattafa es un perfume femenino moderno y encantador, con un carácter dulce y cremoso. Se caracteriza por sus notas afrutadas y florales, con un corazón lácteo y una base cálida de vainilla y almizcle. Es versátil, ideal para climas cálidos y ocasiones casuales, destacándose por su suavidad y longevidad.', type: 'perfume', quantity: 1 },
     { name: 'Bolso MK', price: '€6', image: 'fotos/mk.png', description: 'Inspiracion MK', type: 'bolsos', quantity: 1 },
+    { name: 'Yara Tous', price: '€20', image: 'fotos/yaranaranja.jpg', description: 'Yara Tous de Lattafa es una fragancia dulce y afrutada, con toques cítricos, cremosidad floral y un fondo almizclado suave. Alegre y femenina.', type: 'perfume', quantity: 1 },
     { name: 'Bolso V', price: '€6', image: 'fotos/v.png', description: 'Inspiracion V', type: 'bolsos', quantity: 1 },
     { name: 'Bolso Panal Abeja', price: '€6', image: 'fotos/panalabeja.png', description: ' ', type: 'bolsos', quantity: 1 },
     { name: 'Perfume Qimmah', price: '€20', image: 'fotos/verdeagua.jpg', description: 'Qimmah de Lattafa es un perfume árabe amaderado y especiado, con oud, ámbar y vainilla. Intenso, elegante y duradero.', type: 'perfume', quantity: 1 },
@@ -19,7 +20,7 @@ const products = [
     { name: 'Perfume Yara Assad', price: '€23', image: 'fotos/Yaranegro.jpg', description: 'Dulce y floral, con notas de frutas jugosas, flores suaves y un toque cremoso de vainilla. Elegante, fresca y de larga duración.', type: 'perfume', quantity: 1 },
     { name: 'Andaleeb', price: '€21', image: 'fotos/ANDALEEBASDAAF.jpg', description: 'Un perfume árabe con notas de frutas dulces, flores exóticas, vainilla y almizcle, creando un aroma cálido, seductor y duradero.', type: 'perfume', quantity: 1 },
     { name: 'Crema dolor', price: '€5', image: 'fotos/CREMADOLOR.jpg', description: 'Crema del dolor natural.', type: 'perfume', quantity: 1 },
-    { name: 'Yara Tous', price: '€20', image: 'fotos/yaranaranja.jpg', description: 'Yara Tous de Lattafa es una fragancia dulce y afrutada, con toques cítricos, cremosidad floral y un fondo almizclado suave. Alegre y femenina.', type: 'perfume', quantity: 1 },
+     
   ];
 
 
