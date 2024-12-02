@@ -10,7 +10,7 @@ const products = [
     { name: 'Bolso MK', price: '€6', image: 'fotos/mk.png', description: 'Inspiracion MK', type: 'bolsos', quantity: 1 },
     { name: 'Yara Tous', price: '€20', image: 'fotos/yaranaranja.jpg', description: 'Yara Tous de Lattafa es una fragancia dulce y afrutada, con toques cítricos, cremosidad floral y un fondo almizclado suave. Alegre y femenina.', type: 'perfume', quantity: 1 },
     { name: 'Bolso V', price: '€6', image: 'fotos/v.png', description: 'Inspiracion V', type: 'bolsos', quantity: 1 },
-    { name: 'Bolso Panal Abeja', price: '€6', image: 'fotos/panalabeja.png', description: ' ', type: 'bolsos', quantity: 1 },
+    { name: 'Bolso Panal Abeja', price: '€10', image: 'fotos/panalabeja.png', description: ' ', type: 'bolsos', quantity: 1 },
     { name: 'Perfume Qimmah', price: '€20', image: 'fotos/verdeagua.jpg', description: 'Qimmah de Lattafa es un perfume árabe amaderado y especiado, con oud, ámbar y vainilla. Intenso, elegante y duradero.', type: 'perfume', quantity: 1 },
     { name: 'Yara Moi', price: '€20', image: 'fotos/Yaramoi.jpg', description: 'Un perfume dulce y floral, con notas frutales, vainilla cremosa y un toque almizclado suave. Juvenil, elegante y versátil.', type: 'perfume', quantity: 1 },
     { name: 'Perfume Sakeena', price: '€25', image: 'fotos/Sakeena.jpg', description: 'Dulce y floral, con notas de frutas, flores delicadas, almizcle y vainilla. Sutil, sofisticada y versátil.', type: 'perfume', quantity: 1 },
