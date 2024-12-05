@@ -28,7 +28,12 @@ const products = [
     { name: 'Zapatillas De Casa', price: '€3,50', image: 'fotos/zapatillas.jpg', description: 'Zapatillas para estar en casa calentito', type: 'ropa', quantity: 1 },
     { name: 'Delantal Navideño', price: '€3,50', image: 'fotos/delantal.jpg', description: '', type: 'ropa', quantity: 1 },
     { name: 'Braga cuello', price: '€3', image: 'fotos/braga.jpg', description: 'Bragas de pelo', type: 'ropa', quantity: 1 },
+    { name: 'Yara Candy', price: '€35', image: 'fotos/yaranueva.jpg', description: 'Yara Candy de Lattafa es una fragancia dulce y afrutada con caramelo, frutas jugosas y vainilla, perfecta para un estilo juvenil y alegre.', type: 'perfume', quantity: 1 },
     { name: 'Chaleco fleco', price: '€12', image: 'fotos/Chalecomarron.jpg', description: 'Tela Antelina', type: 'ropa', quantity: 1 },
+    { name: 'Esponjas maquillaje', price: '€2,50', image: 'fotos/espongas.jpg', description: '', type: 'ropa', quantity: 1 },
+    { name: 'valentine', price: '€12', image: 'fotos/valentinenegra.jpg', description: 'Amaderado y especiado, con notas de bergamota, especias cálidas, madera de vetiver y un fondo de almizcle. Sofisticado, intenso y duradero.', type: 'perfume', quantity: 1 },
+    { name: 'Perfume Savage', price: '€8', image: 'fotos/savage.jpg', description: 'Fresco y especiado, con bergamota vibrante, pimienta y una base de ambroxan y maderas. Sofisticado, versátil y duradero.', type: 'perfume', quantity: 1 },
+    { name: 'Rolon Lacoste', price: '€3', image: 'fotos/rolonlacoste.jpg', description: 'Aceite de perfume', type: 'perfume', quantity: 1 },
     { name: 'Crema dolor', price: '€5', image: 'fotos/CREMADOLOR.jpg', description: 'Crema del dolor natural.', type: 'perfume', quantity: 1 },
      
   ];
