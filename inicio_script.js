@@ -19,6 +19,10 @@ const products = [
     { name: 'Perfume Ameerat Arab', price: '€20', image: 'fotos/Ameeratarab.jpg', description: 'Un perfume dulce y floral con notas de rosa, jazmín, oud y vainilla. Intenso, elegante y duradero', type: 'perfume', quantity: 1 },
     { name: 'Perfume Yara Assad', price: '€23', image: 'fotos/Yaranegro.jpg', description: 'Dulce y floral, con notas de frutas jugosas, flores suaves y un toque cremoso de vainilla. Elegante, fresca y de larga duración.', type: 'perfume', quantity: 1 },
     { name: 'Andaleeb', price: '€21', image: 'fotos/ANDALEEBASDAAF.jpg', description: 'Un perfume árabe con notas de frutas dulces, flores exóticas, vainilla y almizcle, creando un aroma cálido, seductor y duradero.', type: 'perfume', quantity: 1 },
+    { name: 'Rebeca Cherry', price: '€8', image: 'fotos/camisetacereza.jpg', description: 'Rebeca de lana', type: 'ropa', quantity: 1 },
+    { name: 'Sudadera Limon', price: '€7', image: 'fotos/limon.jpg', description: '', type: 'ropa', quantity: 1 },
+    { name: 'Sudadera Corazon', price: '€8', image: 'fotos/corazon.jpg', description: 'Sudadera tercipelo', type: 'ropa', quantity: 1 },
+    { name: 'Sudadera Larga VG', price: '€10', image: 'fotos/vogue.jpg', description: '', type: 'ropa', quantity: 1 },
     { name: 'Crema dolor', price: '€5', image: 'fotos/CREMADOLOR.jpg', description: 'Crema del dolor natural.', type: 'perfume', quantity: 1 },
      
   ];
