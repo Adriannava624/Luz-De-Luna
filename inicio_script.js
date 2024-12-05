@@ -36,7 +36,7 @@ const products = [
     { name: 'Rolon Lacoste', price: '€3', image: 'fotos/rolonlacoste.jpg', description: 'Aceite de perfume', type: 'perfume', quantity: 1 },
     { name: 'Perfume patin', price: '€8', image: 'fotos/patin.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'Perfume Tacon', price: '€8', image: 'fotos/tacon.jpg', description: '', type: 'perfume', quantity: 1 },
-    { name: 'Ambientador Qimmah', price: '€4', image: 'fotos/ambientador verde.jpg', description: '', type: 'perfume', quantity: 1 },
+    { name: 'Ambientador Qimmah', price: '€4', image: 'fotos/ambientadorverde.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'Ambientador Barakkat ross', price: '€4', image: 'fotos/ambientadorropjo.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'Ambientador Barakkat', price: '€4', image: 'fotos/ambietadorblanco.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'Crema dolor', price: '€5', image: 'fotos/CREMADOLOR.jpg', description: 'Crema del dolor natural.', type: 'perfume', quantity: 1 },
