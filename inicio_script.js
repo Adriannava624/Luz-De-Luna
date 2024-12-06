@@ -24,7 +24,7 @@ const products = [
     { name: 'Pantalon Ancho Lana', price: '€10', image: 'fotos/Pantalones.jpg', description: 'Pantalon de Lana', type: 'ropa', quantity: 1 },
     { name: 'Chaqueta fleco', price: '€12', image: 'fotos/chalecorojo.jpg', description: 'Tela Antelina', type: 'ropa', quantity: 1 },
     { name: 'Sudadera Corazon', price: '€8', image: 'fotos/corazon.jpg', description: 'Sudadera tercipelo', type: 'ropa', quantity: 1 },
-    { name: 'Sudadera Larga VG', price: '€10', image: 'fotos/vogue.jpg', description: '', type: 'ropa', quantity: 1 },
+    { name: 'Sudadera Larga VG', price: '€8', image: 'fotos/vogue.jpg', description: '', type: 'ropa', quantity: 1 },
     { name: 'Zapatillas De Casa', price: '€3,50', image: 'fotos/zapatillas.jpg', description: 'Zapatillas para estar en casa calentito', type: 'ropa', quantity: 1 },
     { name: 'Delantal Navideño', price: '€3,50', image: 'fotos/delantal.jpg', description: '', type: 'ropa', quantity: 1 },
     { name: 'Braga cuello', price: '€3', image: 'fotos/braga.jpg', description: 'Bragas de pelo', type: 'ropa', quantity: 1 },
