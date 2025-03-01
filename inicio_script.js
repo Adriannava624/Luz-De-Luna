@@ -32,7 +32,7 @@ const products = [
     { name: 'Ambientador Barakkat', price: '€4', image: 'fotos/ambietadorblanco.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'Crema dolor', price: '€5', image: 'fotos/CREMADOLOR.jpg', description: 'Crema del dolor natural.', type: 'perfume', quantity: 1 },
     { name: 'Yani sweet', price: '€3', image: 'fotos/yanisweett.jpg', description: '', type: 'perfume', quantity: 1 }, 
-    { name: 'Yani prady', price: '€3', image: 'fotos/yanyprady.jpg', description: '', type: 'perfume', quantity: 1 },
+    { name: 'Yani prady', price: '€2', image: 'fotos/yanyprady.jpg', description: '', type: 'perfume', quantity: 1 },
     { name: 'riñonera mujer', price: '€5', image: 'fotos/riñonerasmujer.jpg', description: '', type: 'bolsos', quantity: 1 },
   ];
 
